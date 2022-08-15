@@ -3,5 +3,4 @@ Flask-SQLAlchemy
 gunicorn
 pandas
 requests
-scikit-learn
-scipy
+scikit-learn==0.21.2
