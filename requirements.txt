@@ -1,6 +1,6 @@
 Flask
 Flask-SQLAlchemy
+scikit-learn==0.21.2
 gunicorn
 pandas
 requests
-scikit-learn==0.21.2
